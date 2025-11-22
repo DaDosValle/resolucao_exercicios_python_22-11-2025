@@ -1,5 +1,10 @@
 # 1. Listas + Compreensão de Listas + Condicionais
 
+
+'''Dada uma lista de números inteiros, crie um programa que gere duas listas novas.
+• uma contendo apenas os números primos
+• outra contendo os números não primos'''
+
 numeros_eh_par = []
 numeros_eh_impar = []
 
